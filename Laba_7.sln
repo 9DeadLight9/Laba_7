@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tusk_1", "Tusk_1\Tusk_1.csproj", "{5000B7F3-9796-4FAE-ABA8-52B365A2C951}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tusk_2", "Tusk_2\Tusk_2.csproj", "{A42A3FD3-A775-4921-92BB-DAC0C8A2241D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tusk_3", "Tusk_3\Tusk_3.csproj", "{B18C7184-C2D2-4E88-974B-EECDBA308B86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5000B7F3-9796-4FAE-ABA8-52B365A2C951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5000B7F3-9796-4FAE-ABA8-52B365A2C951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5000B7F3-9796-4FAE-ABA8-52B365A2C951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5000B7F3-9796-4FAE-ABA8-52B365A2C951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A42A3FD3-A775-4921-92BB-DAC0C8A2241D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42A3FD3-A775-4921-92BB-DAC0C8A2241D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42A3FD3-A775-4921-92BB-DAC0C8A2241D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42A3FD3-A775-4921-92BB-DAC0C8A2241D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B18C7184-C2D2-4E88-974B-EECDBA308B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B18C7184-C2D2-4E88-974B-EECDBA308B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B18C7184-C2D2-4E88-974B-EECDBA308B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B18C7184-C2D2-4E88-974B-EECDBA308B86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
